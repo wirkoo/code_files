@@ -1,4 +1,5 @@
-﻿Imports System.IO
+﻿
+Imports System.IO 'imports namespace of System.IO to get Streamwriter Class for saving files methods
 
 'In this form , i used toolstrip and richtextbox from toolbox.
 'In toolstrip I used five toolstrip labels as Select All, Cut, Copy, Save, Exit.

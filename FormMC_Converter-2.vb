@@ -3,7 +3,7 @@ Public Class Form2
     Private Sub back_Click(sender As Object, e As EventArgs) Handles back.Click
         'This is code for "Main Window" button.
 
-        Form1.Show() 'I am displaying the form 1 with saving state for this form2'
+        Form1.Show() 'I am displaying the form 1'
         Me.Hide() 'For not loosing the contents of this form, therfore I hide it.
 
         'When we click again on button (text to morse), it shows this form withouth loosing

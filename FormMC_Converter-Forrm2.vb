@@ -1,4 +1,4 @@
-﻿Imports System.IO
+Imports System.IO 'imports namespace system.io to get the class "streamwrite" from this namespace
 Public Class Form2
     Private Sub back_Click(sender As Object, e As EventArgs) Handles back.Click
         'This is code for "Main Window" button.
